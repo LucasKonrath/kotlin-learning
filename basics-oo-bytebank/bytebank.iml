@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/kotlin" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" scope="TEST">
+      <library name="kotlin-test-junit">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/kotlin-test-junit-1.5.10.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/kotlin-test-1.5.10.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/kotlin-stdlib-1.5.10.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/annotations-13.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/kotlin-stdlib-common-1.5.10.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/junit-4.12.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/hamcrest-core-1.3.jar!/" />
+          <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib.jar!/" />
+          <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-reflect.jar!/" />
+          <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-test.jar!/" />
+          <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jdk7.jar!/" />
+          <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jdk8.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/libs/kotlin-test-junit-1.5.10-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/kotlin-test-1.5.10-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/kotlin-stdlib-1.5.10-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/annotations-13.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/kotlin-stdlib-common-1.5.10-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/junit-4.12-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/hamcrest-core-1.3-sources.jar!/" />
+          <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/" />
+          <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-reflect-sources.jar!/" />
+          <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-test-sources.jar!/" />
+          <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jdk7-sources.jar!/" />
+          <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-jdk8-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="ktor-server-netty">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/libs/ktor-server-netty-1.5.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/kotlin-stdlib-1.4.30.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/kotlin-stdlib-common-1.4.30.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/annotations-13.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/kotlin-stdlib-jdk7-1.4.30.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/kotlin-stdlib-jdk8-1.4.30.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/slf4j-api-1.7.30.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/kotlinx-coroutines-jdk8-1.4.2-native-mt.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/kotlinx-coroutines-core-1.4.2-native-mt.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/ktor-server-host-common-1.5.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/ktor-server-core-1.5.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/ktor-utils-jvm-1.5.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/ktor-io-jvm-1.5.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/ktor-http-jvm-1.5.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/config-1.3.1.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/kotlin-reflect-1.4.30.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/ktor-http-cio-jvm-1.5.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/ktor-network-jvm-1.5.2.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/kotlinx-coroutines-core-jvm-1.4.2-native-mt.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/netty-codec-http2-4.1.54.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/netty-common-4.1.54.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/netty-buffer-4.1.54.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/netty-transport-4.1.54.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/netty-resolver-4.1.54.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/netty-codec-4.1.54.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/netty-handler-4.1.54.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/netty-codec-http-4.1.54.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/alpn-api-1.1.3.v20160715.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/netty-transport-native-kqueue-4.1.54.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/netty-transport-native-unix-common-4.1.54.Final.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/netty-transport-native-epoll-4.1.54.Final.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/libs/ktor-server-netty-1.5.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/kotlin-stdlib-1.4.30-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/kotlin-stdlib-common-1.4.30-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/annotations-13.0-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/kotlin-stdlib-jdk7-1.4.30-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/kotlin-stdlib-jdk8-1.4.30-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/slf4j-api-1.7.30-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/kotlinx-coroutines-jdk8-1.4.2-native-mt-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/kotlinx-coroutines-core-1.4.2-native-mt-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/ktor-server-host-common-1.5.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/ktor-server-core-1.5.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/ktor-utils-jvm-1.5.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/ktor-io-jvm-1.5.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/ktor-http-jvm-1.5.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/config-1.3.1-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/kotlin-reflect-1.4.30-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/ktor-http-cio-jvm-1.5.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/ktor-network-jvm-1.5.2-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/kotlinx-coroutines-core-jvm-1.4.2-native-mt-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/netty-codec-http2-4.1.54.Final-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/netty-common-4.1.54.Final-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/netty-buffer-4.1.54.Final-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/netty-transport-4.1.54.Final-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/netty-resolver-4.1.54.Final-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/netty-codec-4.1.54.Final-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/netty-handler-4.1.54.Final-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/netty-codec-http-4.1.54.Final-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/alpn-api-1.1.3.v20160715-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/netty-transport-native-kqueue-4.1.54.Final-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/netty-transport-native-unix-common-4.1.54.Final-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/libs/netty-transport-native-epoll-4.1.54.Final-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES />
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
+  </component>
+</module>
