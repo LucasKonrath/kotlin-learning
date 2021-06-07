@@ -4,7 +4,7 @@
 :brazil: Projetos que utilizei para meu aprendizado de Kotlin
 
 
-[Bytebank](basics-oo-bytebank)
+[Bytebank](basics-oo-bytebank/src/main/kotlin)
 
 :us: Subjects:
 - Basic Object Orientated Programming
